@@ -1,10 +1,9 @@
 # AI-Stylo
 
 ### Overview
-```
+``
 The project is a web-based T-shirt customization platform that leverages React as the frontend framework, Node.js as the backend runtime, and Three.js for generating and visualizing T-shirt designs. The main objective is to provide users with a seamless experience to personalize their T-shirt designs by changing colors, adding logos or patterns, and utilizing AI-generated designs through the OpenAI DALL·E API integration.
-
-```
+``
 
 ### Key Feautes
 1. **T-Shirt Customization**: The platform allows users to customize T-shirt designs by selecting various options. Users can change the color of the T-shirt using a color picker, providing a wide range of color choices to suit their preferences.
