@@ -64,4 +64,44 @@ Start the server
 ```bash
   npm run dev
 ```
+## Try These Prompts 🤔
 
+**Variation 1**:
+
+Description: An abstract pattern featuring overlapping geometric shapes in vibrant shades of blue, green, and purple. The shapes create a dynamic and eye-catching design.
+
+**Variation 2**:
+
+Description: A nature-inspired pattern with colorful flowers and leaves arranged in a symmetric pattern. The flowers have shades of pink, orange, and yellow, while the leaves are in shades of green.
+
+**Variation 3**:
+
+Description: A retro-style pattern with bold, wavy lines in contrasting colors of black and white. The lines form an intricate and hypnotic design that would make a statement on a t-shirt.
+
+**Variation 4**:
+
+Description: A minimalist pattern consisting of small, repeated triangles in shades of gray and white. The triangles are arranged in a grid-like formation, creating a modern and sleek look.
+
+**Variation 5**:
+
+Description: A psychedelic pattern with swirling, vibrant colors of pink, purple, and blue. The colors blend and merge together, creating an energetic and mesmerizing design.
+
+**Variation 6**:
+
+Description: A monochromatic pattern featuring intricate, interconnected maze-like lines in shades of gray. The lines form a complex and intriguing design that adds depth and visual interest to the t-shirt.
+
+**Variation 7**:
+
+Description: An abstract pattern with splashes of vibrant colors like red, yellow, and blue on a white background. The splashes create a sense of movement and spontaneity, making it a lively choice for a t-shirt design.
+
+**Variation 8**:
+
+Description: A geometric pattern inspired by tribal art, featuring bold, angular shapes in earthy tones of brown, beige, and orange. The pattern creates a sense of cultural richness and can add a unique touch to a t-shirt.
+
+**Variation 9**:
+
+Description: A digital glitch-inspired pattern with distorted lines and pixelated squares in neon colors. The glitch effect adds a modern and edgy vibe to the design, making it suitable for a trendy t-shirt.
+
+**Variation 10**:
+
+Description: A watercolor-style pattern with soft, blended strokes of pastel colors like lavender, mint green, and baby pink. The watercolor effect adds a delicate and artistic touch to the t-shirt design.
