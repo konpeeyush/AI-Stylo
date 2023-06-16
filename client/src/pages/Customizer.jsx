@@ -54,7 +54,7 @@ const Customizer = () => {
             // call our backend api to generate an image
             setGeneratingImg(true);
 
-            const response = await fetch('https://ai-stylo.onrender.com', {
+            const response = await fetch('http://localhost:8080/api/v1/dalle', {
                 method: 'POST',
                 headers: {
                     'Content-Type': 'application/json'
