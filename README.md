@@ -2,7 +2,11 @@
 
 ### Overview
 ```
+<<<<<<< HEAD
 The project is a web-based T-shirt customization platform that leverages React as the frontend framework, Node.js as the backend runtime, and Three.js for generating and visualizing T-shirt designs. The main objective is to provide users with a seamless experience to personalize their T-shirt designs by changing colors, adding logos or patterns, and utilizing AI-generated designs through the OpenAI DALL·E API integration.
+=======
+https://ai-stylo.netlify.app/](https://konpeeyush-ai-stylo.vercel.app/)
+>>>>>>> 22dc4fa8416f4ba600be083cc027c38c602733a7
 
 ```
 
