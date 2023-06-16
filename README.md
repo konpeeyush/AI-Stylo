@@ -1,11 +1,13 @@
 # AI-Stylo
 
-### Overview
+### Overview ✅
+
 ``
 The project is a web-based T-shirt customization platform that leverages React as the frontend framework, Node.js as the backend runtime, and Three.js for generating and visualizing T-shirt designs. The main objective is to provide users with a seamless experience to personalize their T-shirt designs by changing colors, adding logos or patterns, and utilizing AI-generated designs through the OpenAI DALL·E API integration.
 ``
 
-### Key Feautes
+### Key Feautes 🔑
+
 1. **T-Shirt Customization**: The platform allows users to customize T-shirt designs by selecting various options. Users can change the color of the T-shirt using a color picker, providing a wide range of color choices to suit their preferences.
 
 2. **Logo and Pattern Upload**: Users have the ability to upload their own images or graphics to use as logos or patterns on the T-shirt. This feature enables users to add a personal touch and incorporate their unique designs into the customization process.
@@ -16,5 +18,50 @@ The project is a web-based T-shirt customization platform that leverages React a
 
 5.**User Accounts and Order Management** : The platform includes user account functionality, allowing users to create accounts, save their custom designs, and manage their orders. Users can review and modify their designs before finalizing their orders for production.
 
-### Aim
+### Aim 🫡
+
 ``The T-shirt customization platform aims to provide a user-friendly and engaging experience, allowing individuals to unleash their creativity and design unique T-shirts. By integrating React, Node.js, Three.js, and the OpenAI DALL·E API, the project enables users to explore various customization options and leverage AI-generated designs to achieve truly personalized and visually captivating T-shirt designs.``
+## Acknowledgements 🙏
+
+ - [Thanks to JS Mastery](https://www.youtube.com/watch?v=ZqEa8fTxypQ)
+
+
+
+## Authors 🧑‍💻
+
+- [@konpeeyush](https://github.com/konpeeyush)
+
+
+## Demo 🚀
+
+https://konpeeyush-ai-stylo-q3cv2z299-konpeeyush.vercel.app/
+## Run Locally ⏳
+
+Clone the project
+
+```bash
+  git clone https://github.com/konpeeyush/AI-Stylo.git
+```
+
+Go to the project directory
+
+```bash
+  cd AI-Stylo
+```
+
+```bash
+  cd client
+```
+
+Install dependencies
+
+```bash
+  npm install
+```
+
+Start the server
+
+```bash
+  npm run dev
+```
+
