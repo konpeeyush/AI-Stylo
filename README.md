@@ -16,7 +16,7 @@ The project is a web-based T-shirt customization platform that leverages React a
 
 4. **Real-Time Visualizations**: Three.js, a JavaScript library for 3D graphics, is utilized to create a real-time visualization of the T-shirt designs. Users can see an interactive representation of the T-shirt with their selected colors, uploaded logos or patterns, and AI-generated designs, providing them with a preview of the final product.
 
-5.**User Accounts and Order Management** : The platform includes user account functionality, allowing users to create accounts, save their custom designs, and manage their orders. Users can review and modify their designs before finalizing their orders for production.
+5. **User Accounts and Order Management** : The platform includes user account functionality, allowing users to create accounts, save their custom designs, and manage their orders. Users can review and modify their designs before finalizing their orders for production.
 
 ### Aim 🫡
 
