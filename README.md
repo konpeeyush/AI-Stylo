@@ -34,7 +34,7 @@ The project is a web-based T-shirt customization platform that leverages React a
 
 ## Demo 🚀
 
-https://konpeeyush-ai-stylo-q3cv2z299-konpeeyush.vercel.app/
+[AI-Stylo](https://konpeeyush-ai-stylo-q3cv2z299-konpeeyush.vercel.app/)
 ## Run Locally ⏳
 
 Clone the project
