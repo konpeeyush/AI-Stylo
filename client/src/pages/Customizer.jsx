@@ -53,7 +53,6 @@ const Customizer = () => {
         try {
             // call our backend api to generate an image
             setGeneratingImg(true);
-
             const response = await fetch('https://ai-stylo.vercel.app/api/v1/dalle', {
                 method: 'POST',
                 headers: {
@@ -63,7 +62,7 @@ const Customizer = () => {
                     prompt,
                 })
             })
-
+            
             const data = await response.json();
 
             handleDecals(type, `data:image/png;base64,${data.photo}`)
@@ -98,12 +97,10 @@ const Customizer = () => {
                 state.isFullTexture = false;
                 break;
         }
-
         setActiveFilterTab((prevState) => {
             return {
                 ...prevState,
                 [tabName]: !prevState[tabName]
-
             }
         })
     }
@@ -133,7 +130,6 @@ const Customizer = () => {
                                         handleClick={() => setActiveEditorTab(tab.name)}
                                     />
                                 ))}
-
                                 {generateTabContent()}
                             </div>
                         </div>
